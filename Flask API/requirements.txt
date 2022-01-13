@@ -36,7 +36,7 @@ oauthlib==3.1.0
 opt-einsum==3.2.1
 packaging==20.8
 pickle-mixin==1.0.2
-Pillow==7.2.0
+Pillow==9.0.0
 Pint==0.16.1
 plac==0.9.6
 preshed==2.0.1
